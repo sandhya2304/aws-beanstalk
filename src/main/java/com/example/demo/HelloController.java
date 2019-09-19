@@ -12,7 +12,7 @@ public class HelloController
 	@GetMapping
 	public String hello()
 	{
-		return "hello from rest";
+		return "hello from rest im beanstalk";
 	}
 
 }
